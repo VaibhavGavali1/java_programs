@@ -1,3 +1,5 @@
+//WAP to display the result and find the gread form the result using else if condition. 
+
 import java.util.Scanner;
 
 public class elseif2 {

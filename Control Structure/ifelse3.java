@@ -1,3 +1,5 @@
+//WAP to print maximum no. using if else.
+
 import java.util.Scanner;
 
 public class ifelse3 {

@@ -1,3 +1,5 @@
+//WAP take 3  no. and find which is Maximum form the 3 numbers using else if. 
+
 import java.util.Scanner;
 public class elseif1 {
     public static void main(String[] args) {

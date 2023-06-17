@@ -1,3 +1,5 @@
+//Program for even or odd using if else.
+
 import java.util.Scanner;
 
 public class ifelse2 {

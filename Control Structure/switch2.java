@@ -1,3 +1,5 @@
+//WAP to create a simple calculater using switch case statment.
+
 import java.util.Scanner;
 
 public class switch2 {

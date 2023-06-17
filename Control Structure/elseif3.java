@@ -1,3 +1,5 @@
+//WAP to print the salary of employe using the else if condition.
+
 import java.util.Scanner;
 
 public class elseif3 {

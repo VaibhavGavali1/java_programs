@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class ExContinue {
+public class ExampleContinue {
     public static void main(String[] args) {
         int n, b;
         n = 123456;

@@ -1,3 +1,5 @@
+//Program for if else to cast a vote.
+
 import java.util.Scanner;
 
 public class ifelse1 {

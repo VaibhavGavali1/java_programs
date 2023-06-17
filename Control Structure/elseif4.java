@@ -1,3 +1,5 @@
+//WAP to find out positive , negative or zero numbers form the given no. using else if condition.
+
 import java.util.Scanner;
 
 public class elseif4 {

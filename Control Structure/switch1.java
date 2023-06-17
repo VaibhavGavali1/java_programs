@@ -1,3 +1,5 @@
+//WAP using swithc case statment.
+
 import java.util.Scanner;
 
 public class switch1 {
@@ -6,18 +8,17 @@ public class switch1 {
         int x;
         System.out.println("Enter 1, 2 or 3");
         x=sc.nextInt();
-        switch(x){
-
-        case1:
+        switch(x){ 
+        case 1:
         System.out.println("One");
         break;
 
 
-        case2:
+        case 2:
         System.out.println("Two");
         break;
 
-        case3:
+        case 3:
         System.out.println("Three");
         break;
 
