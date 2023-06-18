@@ -1,4 +1,4 @@
-//Do wile loop.
+//Use of Do wile loop.
 
 import java.util.Scanner;
 

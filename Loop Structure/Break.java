@@ -1,4 +1,4 @@
-//Use of Break .
+//Use of Break Statment.
 
 import java.util.Scanner;
 

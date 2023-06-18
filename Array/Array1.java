@@ -1,4 +1,4 @@
-//Sample array program.
+//Simple array program.
 
 import java.util.Scanner;
 

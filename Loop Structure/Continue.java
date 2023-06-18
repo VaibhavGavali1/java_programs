@@ -1,4 +1,4 @@
-//Use of Continue
+//Use of Continue.
 
 import java.util.Scanner;
 

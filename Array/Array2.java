@@ -1,4 +1,4 @@
-//Write a 5 numbern into array and print any even number for that array
+//Write a 5 number into array and print any even number for that array.
 
 import java.util.Scanner;
 
