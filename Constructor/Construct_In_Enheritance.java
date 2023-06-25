@@ -1,8 +1,7 @@
 //Constructor in Enheritance
 
-class args {
-    A()
-    {
+class A {
+    A() {
         System.out.println("In A");
     }
 }
